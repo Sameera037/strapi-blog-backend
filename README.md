@@ -17,7 +17,7 @@ This backend powers the blog frontend built with Next.js.
 
 ✔ Clean, structured content modeling
 
-✔ Supports SQLite (local) and PostgreSQL (production)
+✔ Supports SQLite (local) and PostgreSQL (production) 
 
 🛠 Tech Stack
 Component	Technology
